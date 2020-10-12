@@ -14,3 +14,4 @@ The program has a main method and 3 other methods. The 3 methods are: -printGame
 ## MAIN
 The main method of the program initializes the gameboard matrix, prints it and enters a while loop. The while loop contains two moves ( one for the player and one for the cpu ).
 A move is made by scanning the position (or randomizing in cpu's case), checking if the position is available (and if it is not, printing the message to pick another position and scanning it), placing the piece and checking if the game is over.
+
